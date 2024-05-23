@@ -1,0 +1,8 @@
+#ast-block-templates-button-wrap {
+    display: none !important;
+}
+
+/*Reset Default Blocks Gap*/
+body.editor-styles-wrapper .wp-site-blocks > * {
+    margin-block-start: 0;
+}

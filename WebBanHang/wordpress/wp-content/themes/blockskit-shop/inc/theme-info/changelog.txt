@@ -1,0 +1,5 @@
+= 1.0.1 =
+* Getting started plugin list update.
+
+= 1.0.0 =
+* Initial Release.

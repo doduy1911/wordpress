@@ -1,0 +1,830 @@
+# Copyright (C) 2023 BlockskitDev
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockskit Shop 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockskit-shop\n"
+"POT-Creation-Date: 2023-12-13 12:13:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/core/block-patterns.php:17
+msgid "Blockskit Shop Patterns"
+msgstr ""
+
+#: inc/core/block-patterns.php:18
+msgid "Home"
+msgstr ""
+
+#: inc/core/block-patterns.php:19
+msgid "Services"
+msgstr ""
+
+#: inc/core/block-patterns.php:20
+msgid "Clients"
+msgstr ""
+
+#: inc/core/block-patterns.php:21
+msgid "Pricing"
+msgstr ""
+
+#: inc/core/block-patterns.php:22
+msgid "Call to Action"
+msgstr ""
+
+#: inc/core/block-styles.php:25 inc/core/block-styles.php:33
+#: inc/core/block-styles.php:55 inc/core/block-styles.php:76
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/core/block-styles.php:40 inc/core/block-styles.php:62
+#: inc/core/block-styles.php:83
+msgid "Box Shadow Medium"
+msgstr ""
+
+#: inc/core/block-styles.php:47 inc/core/block-styles.php:90
+msgid "Box Shadow Large"
+msgstr ""
+
+#: inc/core/block-styles.php:69
+msgid "Box Shadow Larger"
+msgstr ""
+
+#: inc/core/block-styles.php:97 inc/core/block-styles.php:104
+#: inc/core/block-styles.php:112 inc/core/block-styles.php:120
+msgid "Box Shadow on Hover"
+msgstr ""
+
+#: inc/core/block-styles.php:129
+msgid "Secondary"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:17
+msgid "Processing..."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:56
+msgid "Essential plugins are added successfully. You may dismiss this notice now."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:58
+msgid "Welcome! Thank you for choosing %1$s."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:58
+msgid "By clicking \"Get Started,\" you will install and activate Blockskit Import & Advanced Import plugins to prepare your demo import."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:58 inc/theme-info/theme-info.php:909
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:114
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:192
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:41
+msgid " Info"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:42
+msgid " Theme"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:295 inc/theme-info/theme-info.php:898
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:296
+msgid "Essential plugins are added successfully."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:505 inc/theme-info/theme-info.php:636
+msgid "Install"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:510 inc/theme-info/theme-info.php:641
+msgid "Activate"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:516 inc/theme-info/theme-info.php:647
+msgid "Deactivate"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:536
+msgid "Hooray! There are no recommended actions for you right now."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:537
+msgid "Show All Recommended Actions"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:702
+msgid "Download"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:705
+msgid "Live Preview"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:777
+msgid "Theme Features"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:778
+msgid "Free"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:779
+msgid "Pro (Premium)"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:878
+msgid "Welcome to %s - "
+msgstr ""
+
+#: inc/theme-info/theme-info.php:881
+msgid "%s is now installed and ready to use. We hope the following information will help and you enjoy using it!"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:888
+msgid "Theme Info"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:892
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:899
+msgid "Compare Free Vs Pro"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:900
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:901
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:907 patterns/header-minimal.php:25
+msgid "Get Started"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:908
+msgid "By clicking \"Get Started,\" you will install and activate essential plugins to prepare your demo import."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:916
+msgid "Pre-built Demos"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:917
+msgid "We recommend utilizing our collection of pre-designed starter site templates as an efficient and convenient way to begin your project."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:918
+msgid "Browse Demos"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:924 inc/theme-info/theme-info.php:926
+msgid "Import Demo"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:925
+msgid "The quick demo import setup will help you configure your new website like theme demo."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:932
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:933
+msgid "We kindly request that you refer to the theme documentation for additional guidance on how to utilize its features."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:934
+msgid "View Documentation"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:940
+msgid "Love Our Product?"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:941
+msgid "We would greatly appreciate your motivation through a 5-star rating on our profile."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:942
+msgid "Rate Us"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:948
+msgid "Have Question? Ask Us, Now!"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:949
+msgid "We are committed to resolving any issues that may arise to ensure a seamless experience while using our theme."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:950
+msgid "Get Support"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:965
+msgid "Access to All Starter Sites"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:966 inc/theme-info/theme-info.php:971
+#: inc/theme-info/theme-info.php:976 inc/theme-info/theme-info.php:981
+#: inc/theme-info/theme-info.php:986 inc/theme-info/theme-info.php:991
+#: inc/theme-info/theme-info.php:996
+msgid "no"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:967 inc/theme-info/theme-info.php:972
+#: inc/theme-info/theme-info.php:977 inc/theme-info/theme-info.php:982
+#: inc/theme-info/theme-info.php:987 inc/theme-info/theme-info.php:992
+#: inc/theme-info/theme-info.php:997 inc/theme-info/theme-info.php:1001
+#: inc/theme-info/theme-info.php:1002 inc/theme-info/theme-info.php:1006
+#: inc/theme-info/theme-info.php:1007 inc/theme-info/theme-info.php:1011
+#: inc/theme-info/theme-info.php:1012 inc/theme-info/theme-info.php:1016
+#: inc/theme-info/theme-info.php:1017 inc/theme-info/theme-info.php:1021
+#: inc/theme-info/theme-info.php:1022 inc/theme-info/theme-info.php:1026
+#: inc/theme-info/theme-info.php:1027 inc/theme-info/theme-info.php:1031
+#: inc/theme-info/theme-info.php:1032 inc/theme-info/theme-info.php:1036
+#: inc/theme-info/theme-info.php:1037 inc/theme-info/theme-info.php:1041
+#: inc/theme-info/theme-info.php:1042 inc/theme-info/theme-info.php:1046
+#: inc/theme-info/theme-info.php:1047 inc/theme-info/theme-info.php:1051
+#: inc/theme-info/theme-info.php:1052 inc/theme-info/theme-info.php:1056
+#: inc/theme-info/theme-info.php:1057 inc/theme-info/theme-info.php:1061
+#: inc/theme-info/theme-info.php:1062 inc/theme-info/theme-info.php:1066
+#: inc/theme-info/theme-info.php:1067
+msgid "yes"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:970
+msgid "Access to All Templates & Patterns"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:975
+msgid "Work with the Page Builders"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:980
+msgid "Creative & Unique Blocks"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:985
+msgid "Elementor Ready"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:990
+msgid "Priority Updates"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:995
+msgid "Priority Support"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1000
+msgid "Full Site Editing"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1005
+msgid "Customize Everything"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1010
+msgid "Lighting Fast"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1015
+msgid "One-click Demo Installer"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1020
+msgid "Fully Responsive"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1025
+msgid "Clean & Optimized Code"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1030
+msgid "Multiple Site Styles"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1035
+msgid "Global Settings"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1040
+msgid "CSS Animation"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1045
+msgid "Gutenberg Ready"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1050
+msgid "eCommerce Ready"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1055
+msgid "SEO Optimized"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1060
+msgid "Multilingual Compatibility"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1065
+msgid "RTL/LTR Language Support"
+msgstr ""
+
+#: patterns/brands.php:24
+msgid "BESTSELLER"
+msgstr ""
+
+#: patterns/brands.php:24
+msgid "BRANDS"
+msgstr ""
+
+#: patterns/brands.php:31
+msgid "EXPLORE SHOP"
+msgstr ""
+
+#: patterns/choices-offer.php:27
+msgid "PEOPLE&#39;S"
+msgstr ""
+
+#: patterns/choices-offer.php:27
+msgid "CHOICES"
+msgstr ""
+
+#: patterns/choices-offer.php:34 patterns/choices-offer.php:146
+#: patterns/client-posts.php:50 patterns/latest-products.php:34
+msgid "VIEW MORE"
+msgstr ""
+
+#: patterns/choices-offer.php:48 patterns/latest-products.php:49
+msgid "Headphone"
+msgstr ""
+
+#: patterns/choices-offer.php:52 patterns/latest-products.php:53
+msgid "$450.00"
+msgstr ""
+
+#: patterns/choices-offer.php:52 patterns/latest-products.php:53
+msgid "$420.00"
+msgstr ""
+
+#: patterns/choices-offer.php:63 patterns/latest-products.php:63
+msgid "DSLR Camera"
+msgstr ""
+
+#: patterns/choices-offer.php:67 patterns/latest-products.php:67
+msgid "$150.00"
+msgstr ""
+
+#: patterns/choices-offer.php:78 patterns/latest-products.php:77
+msgid "Samsung S23"
+msgstr ""
+
+#: patterns/choices-offer.php:82 patterns/latest-products.php:81
+msgid "$215.00"
+msgstr ""
+
+#: patterns/choices-offer.php:95 patterns/latest-products.php:93
+msgid "Vintage Watch"
+msgstr ""
+
+#: patterns/choices-offer.php:99 patterns/latest-products.php:97
+msgid "$550.00"
+msgstr ""
+
+#: patterns/choices-offer.php:99 patterns/latest-products.php:97
+msgid "$520.00"
+msgstr ""
+
+#: patterns/choices-offer.php:110 patterns/latest-products.php:107
+msgid "Camera Lens"
+msgstr ""
+
+#: patterns/choices-offer.php:114 patterns/latest-products.php:111
+msgid "$210.00"
+msgstr ""
+
+#: patterns/choices-offer.php:125 patterns/latest-products.php:121
+msgid "Kodak Camera"
+msgstr ""
+
+#: patterns/choices-offer.php:129 patterns/latest-products.php:125
+msgid "$850.00"
+msgstr ""
+
+#: patterns/choices-offer.php:129 patterns/latest-products.php:125
+msgid "$820.00"
+msgstr ""
+
+#: patterns/choices-offer.php:139
+msgid "BEST HOT"
+msgstr ""
+
+#: patterns/choices-offer.php:139
+msgid "OFFER"
+msgstr ""
+
+#: patterns/choices-offer.php:163
+msgid "Sony joystick"
+msgstr ""
+
+#: patterns/choices-offer.php:167
+msgid "$80.00"
+msgstr ""
+
+#: patterns/choices-offer.php:167
+msgid "$68.55"
+msgstr ""
+
+#: patterns/choices-offer.php:172 patterns/choices-offer.php:199
+#: patterns/choices-offer.php:226 patterns/hero-products.php:139
+#: patterns/hero-products.php:173 patterns/hero-products.php:195
+#: patterns/hero-products.php:221 patterns/hero-products.php:243
+#: patterns/latest-products.php:143 patterns/latest-products.php:159
+#: patterns/latest-products.php:181 patterns/latest-products.php:207
+msgid "SHOP NOW"
+msgstr ""
+
+#: patterns/choices-offer.php:190
+msgid "DSLR CAMERA"
+msgstr ""
+
+#: patterns/choices-offer.php:194
+msgid "$190.00"
+msgstr ""
+
+#: patterns/choices-offer.php:194
+msgid "$182.65"
+msgstr ""
+
+#: patterns/choices-offer.php:217
+msgid "BEAT HEADPHONE"
+msgstr ""
+
+#: patterns/choices-offer.php:221
+msgid "$75.00"
+msgstr ""
+
+#: patterns/choices-offer.php:221
+msgid "$60.25"
+msgstr ""
+
+#: patterns/client-posts.php:17
+msgid "CUSTOMER&#39;S"
+msgstr ""
+
+#: patterns/client-posts.php:17
+msgid "REVIEW"
+msgstr ""
+
+#: patterns/client-posts.php:26
+msgid "Quisque adipisicing praesent anim, vestibulum morbi felis magni quaerat habitasse conubia aptent, aptent, proin rhoncus inset unit."
+msgstr ""
+
+#: patterns/client-posts.php:30
+msgid "NAVY SMITH"
+msgstr ""
+
+#: patterns/client-posts.php:34
+msgid "Customer"
+msgstr ""
+
+#: patterns/client-posts.php:43 patterns/latest-products.php:27
+msgid "LATEST"
+msgstr ""
+
+#: patterns/client-posts.php:43
+msgid "BLOG"
+msgstr ""
+
+#: patterns/features.php:28
+msgid "FREE SHIPPING WORLDWIDE"
+msgstr ""
+
+#: patterns/features.php:32 patterns/features.php:52 patterns/features.php:72
+msgid "Sunt auctor netus massa ullam."
+msgstr ""
+
+#: patterns/features.php:48
+msgid "SPECIAL GIFT OFFER"
+msgstr ""
+
+#: patterns/features.php:68
+msgid "24*7 FRIENDLY SUPPORT"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:23
+#: patterns/footer-minimal-left-menu.php:15
+#: patterns/footer-minimal-right-menu.php:37
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:29
+msgid "Knowledge Base"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:35
+#: patterns/footer-minimal-left-menu.php:21
+#: patterns/footer-minimal-right-menu.php:43 patterns/footer.php:89
+msgid "Support"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:41
+#: patterns/footer-minimal-left-menu.php:27
+#: patterns/footer-minimal-right-menu.php:49
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:65
+#: patterns/footer-minimal-left-menu.php:59
+#: patterns/footer-minimal-right-menu.php:59
+msgid "Copyright © %d ·"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:71
+#: patterns/footer-minimal-left-menu.php:65
+#: patterns/footer-minimal-right-menu.php:65 patterns/footer.php:114
+msgid "· All rights reserved"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "Company"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Resources"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "© %d ·"
+msgstr ""
+
+#: patterns/header.php:17
+msgid "FREE RETURNS. STANDARD SHIPPING ORDERS $99+"
+msgstr ""
+
+#: patterns/header.php:73
+msgid "+21(352) 8489"
+msgstr ""
+
+#: patterns/hero-products.php:22
+msgid "POPULAR CATEGORIES"
+msgstr ""
+
+#: patterns/hero-products.php:27
+msgid "Mobile Accessories"
+msgstr ""
+
+#: patterns/hero-products.php:37
+msgid "Phone &amp; Tablets"
+msgstr ""
+
+#: patterns/hero-products.php:47
+msgid "Laptop &amp; Computer"
+msgstr ""
+
+#: patterns/hero-products.php:57
+msgid "Tech Gadgets"
+msgstr ""
+
+#: patterns/hero-products.php:67
+msgid "Digital Camera"
+msgstr ""
+
+#: patterns/hero-products.php:77
+msgid "Smart Watches"
+msgstr ""
+
+#: patterns/hero-products.php:87
+msgid "Home Appliances"
+msgstr ""
+
+#: patterns/hero-products.php:97
+msgid "Headphones"
+msgstr ""
+
+#: patterns/hero-products.php:107
+msgid "Gaming Zone"
+msgstr ""
+
+#: patterns/hero-products.php:117
+msgid "Electronics"
+msgstr ""
+
+#: patterns/hero-products.php:130
+msgid "BLUETOOTH WIRELESS"
+msgstr ""
+
+#: patterns/hero-products.php:130
+msgid "HEADPHONES"
+msgstr ""
+
+#: patterns/hero-products.php:134 patterns/hero-products.php:168
+#: patterns/hero-products.php:190 patterns/hero-products.php:216
+#: patterns/latest-products.php:202
+msgid "Get \"UPTO 30%\" off !!"
+msgstr ""
+
+#: patterns/hero-products.php:164
+msgid "DIGITAL"
+msgstr ""
+
+#: patterns/hero-products.php:164
+msgid "CAMERA"
+msgstr ""
+
+#: patterns/hero-products.php:186
+msgid "SMART"
+msgstr ""
+
+#: patterns/hero-products.php:186
+msgid "GPS WATCH"
+msgstr ""
+
+#: patterns/hero-products.php:212
+msgid "MOBLIE, LAPTOP &amp;"
+msgstr ""
+
+#: patterns/hero-products.php:212
+msgid "ACCESSORIES"
+msgstr ""
+
+#: patterns/hero-products.php:238
+msgid "GRAB A DISCOUNT ON A BRANDED HOME &amp; OFFICE"
+msgstr ""
+
+#: patterns/hero-products.php:238
+msgid "APPLIANCES"
+msgstr ""
+
+#: patterns/latest-products.php:27
+msgid "PRODUCTS"
+msgstr ""
+
+#: patterns/latest-products.php:134
+msgid "BEST OFFER FOR ELECTRONIC"
+msgstr ""
+
+#: patterns/latest-products.php:134
+msgid "GADGETS"
+msgstr ""
+
+#: patterns/latest-products.php:138
+msgid "HEAVY DISCOUNT OFFER"
+msgstr ""
+
+#: patterns/latest-products.php:150
+msgid "BEST GAMING"
+msgstr ""
+
+#: patterns/latest-products.php:150
+msgid "LAPTOP"
+msgstr ""
+
+#: patterns/latest-products.php:154
+msgid "LATEST &amp; STYLISH DESIGN"
+msgstr ""
+
+#: patterns/latest-products.php:172
+msgid "360° CURVE 8K SAMSUNG"
+msgstr ""
+
+#: patterns/latest-products.php:172
+msgid "OLED TELEVISION"
+msgstr ""
+
+#: patterns/latest-products.php:176
+msgid "\"18% SUMMER DISCOUNT\""
+msgstr ""
+
+#: patterns/latest-products.php:198
+msgid "BRAND"
+msgstr ""
+
+#: patterns/latest-products.php:198
+msgid "GAMING LAPTOP"
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: patterns/primary-sidebar.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:40
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:48
+msgid "Social Links"
+msgstr ""
+
+#: patterns/sidebar-shop.php:12
+msgid "Product Search"
+msgstr ""
+
+#: patterns/sidebar-shop.php:20
+msgid "Product Categories"
+msgstr ""
+
+#: patterns/sidebar-shop.php:29
+msgid "Filter by price"
+msgstr ""
+
+#: patterns/sidebar-shop.php:40
+msgid "Recent Products"
+msgstr ""
+
+#: patterns/template-404.php:20
+msgid "404"
+msgstr ""
+
+#: patterns/template-404.php:24
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-cart.php:27 patterns/template-cart.php:90
+#: patterns/template-cart.php:153
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/template-cart.php:209
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/template-cart.php:213
+msgid "Browse store"
+msgstr ""
+
+#: patterns/template-cart.php:221
+msgid "New in store"
+msgstr ""
+
+#: patterns/template-product-search-results.php:49
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/template-search.php:49
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: patterns/template-single-product.php:16
+msgid "Single Product"
+msgstr ""
+
+#: patterns/template-single-product.php:58
+msgid "Related products"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Blockskit Shop"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blockskit.com/blockskit-shop/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blockskit Shop is a modern and versatile WordPress theme designed for various types of websites including blogs, small businesses, startups, agencies, firms, e-commerce shops, personal portfolio sites, and more. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics. The theme is also compatible with popular plugins like Elementor, WooCommerce, and Spectra – WordPress Gutenberg Blocks, adding extra functionality to your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BlockskitDev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blockskit.com"
+msgstr ""
